@@ -12,7 +12,7 @@
             Name :
           </td>
           <td>
-            <input type="text" name="">
+            <input type="text" placeholder="Name" name="">
           </td>
         </tr>
         <tr>
@@ -20,7 +20,7 @@
             Password :
           </td>
           <td>
-            <input type="Password" name="">
+            <input type="Password" placeholder="Password" name="">
           </td>
         </tr>
       </table>
